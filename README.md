@@ -32,20 +32,21 @@ HTTP Method : CRUD Action : Request
     https://www.eclipse.org/downloads/packages/
     https://www.jetbrains.com/idea/download/
     ```
-1. Install MySql and add MySQL path to environment variable
+2. Install MySql and add MySQL path to environment variable
     ```
    https://dev.mysql.com/doc/mysql-windows-excerpt/5.7/en/
    https://dev.mysql.com/doc/mysql-osx-excerpt/5.7/en/
     ```
-1. Install Postman
+3. Install Postman
 	```
     https://www.postman.com/downloads/
     ```
-1. Clone this repository.
+4. Clone this repository.
     ```
     git clone https://github.com/Shahna-C/Potentials.git
 
 ## DEMO
+https://github.com/Shahna-C/Potentials/blob/master/Demo.gif
 
 
 
