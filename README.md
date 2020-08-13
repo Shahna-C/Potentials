@@ -46,7 +46,8 @@ HTTP Method : CRUD Action : Request
     git clone https://github.com/Shahna-C/Potentials.git
 
 ## DEMO
-https://github.com/Shahna-C/Potentials/blob/master/Demo.gif
+
+![](https://github.com/Shahna-C/Potentials/blob/master/Demo.gif)
 
 
 
